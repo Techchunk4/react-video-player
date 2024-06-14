@@ -5,7 +5,6 @@ This is a simple Next.js application that allows users to play and download vide
 ## Features
 
 - Play video from a URL
-- Download video from a URL
 - Responsive design using Tailwind CSS
 
 ## Getting Started
